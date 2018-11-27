@@ -58,3 +58,10 @@ Unsafe actions in the context of shielding is an action that leads to a state wh
 ## Results
 
 The results are discussed in our [report](report.pdf) 
+
+## Contributors
+
+[Aniket Shirke](https://github.com/ani8897)
+[Akash Trehan](https://github.com/CodeMaxx)
+[Samarjeet Sahoo](https://github.com/samar97)
+[Huzefa Chasmai](https://github.com/huzzzz)
